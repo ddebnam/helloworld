@@ -1,0 +1,9 @@
+Hello, World!
+
+Today, I was able to to successfully install git locally as well as sync repositories thru the terminal. I have also considered 
+looking into the GUI. I also watched and downloaded a repository for a Sneaker Bot. I altered the source code so that the
+browser used is Chrome. I will download the necessary files so that firefox works, which was in the originial source
+code. I need to learn more about proxies.
+
+
+Signing out World!
