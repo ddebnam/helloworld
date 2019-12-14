@@ -1,0 +1,12 @@
+I have just about completed the Bootstrap course with nucamp and working on my final project.
+My goals were to have the navbar with logo, rotating carousel, order form and menu.
+I have the navbar and carousel working. The carousel definitely isn't pretty. 
+I need to work more with css to customize the coloring and image sizing.
+I had to put all the images in the main directory, I was unable to get them to show
+when I linked them from /images.
+
+I felt overwhelmed at first but I was able to go thru the Bootstap documentation
+as well as borrowing code from the Nucamp site.
+All in all I am proud of what I have done and I know that I have plenty more to do.
+
+Goodbye World
